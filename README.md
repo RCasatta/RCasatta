@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=RCasatta/blocks_iterator,RCasatta/firma,RCasatta/bitcoin_slices,RCasatta/bitcoind,RCasatta/fbbe,RCasatta/qr_code&type=Timeline)](https://star-history.com/#RCasatta/blocks_iterator&RCasatta/firma&RCasatta/bitcoin_slices&RCasatta/bitcoind&RCasatta/fbbe&RCasatta/qr_code&Timeline)
+
 <!--
 **RCasatta/RCasatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
