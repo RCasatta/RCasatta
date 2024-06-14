@@ -1,1 +1,1 @@
-[![Star History Chart](https://api.star-history.com/svg?repos=RCasatta/blocks_iterator,RCasatta/firma,RCasatta/bitcoin_slices,RCasatta/bitcoind,RCasatta/fbbe,RCasatta/qr_code,RCasatta/pay2email&type=Timeline)](https://star-history.com/#RCasatta/blocks_iterator&RCasatta/firma&RCasatta/bitcoin_slices&RCasatta/bitcoind&RCasatta/fbbe&RCasatta/qr_code&RCasatta/pay2email&Timeline)
+Hi 👋🏼
